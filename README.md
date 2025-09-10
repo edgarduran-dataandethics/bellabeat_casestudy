@@ -1,5 +1,6 @@
 # bellabeat_casestudy
 **Google Data Analytics Capstone: Bellabeat Fitbit Case Study in R**
+
 The purpose of this case study was to showcase my use of an end-to-end data analysis using R, including data cleaning, exploratory analysis, visualization, and strategic recommendations. While the dataset is limited and provided only for practice, this case study demonstrates my ability to apply the data analysis process to a real-world inspired business scenario.
 
 Fitbit data was retrieved from [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit) and was specifically used for practice purposes. The dataset includes activity, steps, and related fitness measures for over 30 users over a two-month period.
@@ -10,6 +11,11 @@ Inside you will find me going through these specific steps which were inspired b
 * PROCESS: How I set up the data, cleaned it, and transformed it.
 * ANALYZE: The process I used to analyze and my thoughts behind it.
 * RECOMMENDATIONS: Finally, the recommendations I had based on the data and other research/experience.
+
+**Business Questions to Answer:**
+* What are some trends in smart device usage?
+* How could these trends apply to Bellabeat customers?
+* How could these trends help influence Bellabeat marketing strategy?
 
 **Key Highlights**
 * Conducted descriptive analysis of steps and activity patterns.
